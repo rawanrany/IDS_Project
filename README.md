@@ -1,4 +1,4 @@
-# CodeAlpha_IDS_Project
+# IDS_Project
 Goal: Detect unauthorized network activity and automatically block the attacker.
 
 1. The Setup
